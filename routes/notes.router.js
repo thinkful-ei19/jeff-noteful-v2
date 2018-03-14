@@ -1,5 +1,5 @@
 'use strict';
-
+const knex = require('../knex');
 const express = require('express');
 
 // Create an router instance (aka "mini-app")
